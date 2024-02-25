@@ -6,11 +6,5 @@
       "id": 9
     }
   ],
-  "users": [
-    {
-      "email": "admin@gmail.com",
-      "password": "$2a$10$J3HC1hAu2zDIfOfUpQHn3.sNrmGv7yTKwq35akfpa9mAjTjCEnT2O",
-      "id": 1
-    }
-  ]
+  "users": []
 }
